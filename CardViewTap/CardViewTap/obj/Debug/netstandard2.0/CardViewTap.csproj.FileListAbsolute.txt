@@ -1,0 +1,16 @@
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\bin\Debug\netstandard2.0\CardViewTap.deps.json
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\bin\Debug\netstandard2.0\CardViewTap.dll
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.csprojAssemblyReference.cache
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.csproj.CoreCompileInputs.cache
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.AssemblyInfoInputs.cache
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.AssemblyInfo.cs
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\bin\Debug\netstandard2.0\CardViewTap.pdb
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.dll
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.pdb
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.dll.mdb
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\bin\Debug\netstandard2.0\CardViewTap.dll.mdb
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\obj\Debug\netstandard2.0\CardViewTap.dll.mdb
+D:\Xamarin Repro\CardViewTap\CardViewTap\CardViewTap\bin\Debug\netstandard2.0\CardViewTap.dll.mdb
